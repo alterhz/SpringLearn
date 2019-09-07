@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringLibs"/>
+	<classpathentry kind="lib" path="/SpringLibs/spring-jdbc-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/SpringLibs/commons-dbcp2-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/SpringLibs/spring-aspects-4.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/SpringLibs/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="/SpringLibs/aopalliance-1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

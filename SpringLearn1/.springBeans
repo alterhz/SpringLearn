@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.9.201906180643-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/DataSource.xml</config>
+		<config>src/DataSource0.xml</config>
+		<config>src/com/C3_4/notepad.xml</config>
+		<config>src/com/C3_4/cart.xml</config>
+		<config>src/soundsystem/trackconfig.xml</config>
+		<config>src/concert/beanconfig.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

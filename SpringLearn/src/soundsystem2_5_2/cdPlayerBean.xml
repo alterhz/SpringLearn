@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<import resource="cd-config.xml" />
+<bean id="cdPlayer" class="soundsystem.CDPlayer" c:cd-ref="compactDisc" />
+
+
+
+<bean class="soundsystem.CDConfig" />
+
+<bean id="cdPlayer" class="soundsystem.CDPlayer" c:cd-ref="compactDisc" />
+
+
+<bean class="soundsystem.CDConfig" />
+
+<import resource="cdPlyaer-config.xml" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
