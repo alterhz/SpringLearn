@@ -16,6 +16,7 @@ public class TestMain {
 		
 		CdPlayer cdPlayer2 = ctx.getBean("mediaPlayer", CdPlayer.class);
 		cdPlayer2.play();
-	
+
+		ctx
 	}
 }

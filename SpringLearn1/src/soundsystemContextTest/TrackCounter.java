@@ -8,7 +8,7 @@ import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
-//@Component("trackCounter")
+@Component("trackCounter")
 @Aspect
 public class TrackCounter {
 	private Map<Integer, Integer> trackCounts = new HashMap<Integer, Integer>();
